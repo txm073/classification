@@ -1,0 +1,28 @@
+
+Traceback (most recent call last):
+  File "e:\Python\Machine Learning\Binary Classification\nn\process.py", line 36, in process_all
+    image = Image.open(path).convert("L")
+  File "C:\Users\Tom\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\site-packages\PIL\Image.py", line 2967, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file 'D:\\Datasets\\PetImages/Cat/666.jpg'
+
+Traceback (most recent call last):
+  File "e:\Python\Machine Learning\Binary Classification\nn\process.py", line 36, in process_all
+    image = Image.open(path).convert("L")
+  File "C:\Users\Tom\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\site-packages\PIL\Image.py", line 2967, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file 'D:\\Datasets\\PetImages/Cat/Thumbs.db'
+
+Traceback (most recent call last):
+  File "e:\Python\Machine Learning\Binary Classification\nn\process.py", line 36, in process_all
+    image = Image.open(path).convert("L")
+  File "C:\Users\Tom\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\site-packages\PIL\Image.py", line 2967, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file 'D:\\Datasets\\PetImages/Dog/11702.jpg'
+
+Traceback (most recent call last):
+  File "e:\Python\Machine Learning\Binary Classification\nn\process.py", line 36, in process_all
+    image = Image.open(path).convert("L")
+  File "C:\Users\Tom\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\LocalCache\local-packages\Python38\site-packages\PIL\Image.py", line 2967, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file 'D:\\Datasets\\PetImages/Dog/Thumbs.db'
